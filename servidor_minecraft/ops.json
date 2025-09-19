@@ -10,5 +10,11 @@
     "name": "Shadowfox",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f61ae928-dbe0-3734-ac4d-0613949d10c2",
+    "name": "Lumpylauncer",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
