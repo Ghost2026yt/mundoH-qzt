@@ -273,3 +273,9 @@
 [19Sep2025 20:33:24.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno joined the game
 [19Sep2025 20:33:55.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Shadowfox to DarkReno]
 [19Sep2025 20:35:16.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox has completed the challenge [Cover Me in Debris]
+[19Sep2025 20:36:00.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox was killed
+[19Sep2025 20:36:00.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Killed Shadowfox]
+[19Sep2025 20:36:13.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Shadowfox to DarkReno]
+[19Sep2025 20:36:18.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the world spawn point to -967, 115, 747 [0.0]]
+[19Sep2025 20:42:59.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[19Sep2025 20:43:14.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Gave 1 [Command Block] to DarkReno]
