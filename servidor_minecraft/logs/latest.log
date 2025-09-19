@@ -288,3 +288,37 @@
 [19Sep2025 20:00:25.057] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:41302 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
 [19Sep2025 20:00:30.260] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:41360 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
 [19Sep2025 20:00:50.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:41908 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 20:01:39.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:33864 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 20:03:05.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer was killed
+[19Sep2025 20:03:05.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Killed Lumpylauncer]
+[19Sep2025 20:03:11.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 20:03:17.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 20:04:22.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer was killed
+[19Sep2025 20:04:22.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Killed Lumpylauncer]
+[19Sep2025 20:04:30.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 20:04:33.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 20:04:35.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Spectator Mode]
+[19Sep2025 20:04:45.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Creative Mode]
+[19Sep2025 20:04:47.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Spectator Mode]
+[19Sep2025 20:04:49.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Creative Mode]
+[19Sep2025 20:04:59.812] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:56980 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 20:05:15.100] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:41466 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 20:05:18.156] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:41484 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 20:07:13.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[19Sep2025 20:07:22.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the world spawn point to -921, 105, 782 [0.0]]
+[19Sep2025 20:07:35.404] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Orc['Orc'/4811, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[19Sep2025 20:07:35.412] [Server thread/INFO] [Easy NPC/]: Register default handler for Orc['Orc'/4811, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[19Sep2025 20:07:35.415] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Orc['Orc'/4811, l='ServerLevel[world]', x=-923.50, y=105.00, z=780.50] ...
+[19Sep2025 20:07:35.427] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Orc['Orc'/4811, l='ServerLevel[world]', x=-923.50, y=105.00, z=780.50] ...
+[19Sep2025 20:07:53.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer has reached the goal [Sky's the Limit]
+[19Sep2025 20:08:28.842] [Server thread/INFO] [Easy NPC/]: Opening menu 949cc786-5229-4073-8c7d-17393a9a2297 for npc 3b5980ba-6cea-417b-b714-ee54d328fb0f and player ServerPlayer['DarkReno'/819, l='ServerLevel[world]', x=-924.25, y=105.00, z=780.89] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Orc]}]
+[19Sep2025 20:08:28.846] [Server thread/INFO] [Easy NPC/]: Opening menu 03d94698-65ee-4510-8b3e-2552c875e249 for npc 3b5980ba-6cea-417b-b714-ee54d328fb0f and player ServerPlayer['DarkReno'/819, l='ServerLevel[world]', x=-924.25, y=105.00, z=780.89] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Orc]}]
+[19Sep2025 20:08:28.847] [Server thread/INFO] [Easy NPC/]: Opening menu b52ce269-452d-4ce2-a547-3de6ee5ac395 for npc 3b5980ba-6cea-417b-b714-ee54d328fb0f and player ServerPlayer['DarkReno'/819, l='ServerLevel[world]', x=-924.25, y=105.00, z=780.89] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Orc]}]
+[19Sep2025 20:08:28.959] [Server thread/INFO] [Easy NPC/]: Opening menu 5e286001-b022-4b06-87f9-b266a3f57190 for npc 3b5980ba-6cea-417b-b714-ee54d328fb0f and player ServerPlayer['DarkReno'/819, l='ServerLevel[world]', x=-924.25, y=105.00, z=780.89] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Orc]}]
+[19Sep2025 20:08:50.555] [Server thread/INFO] [Easy NPC/]: Opening menu 14130f26-a4e0-4f6d-8fa3-2ce90c67296b for npc 3b5980ba-6cea-417b-b714-ee54d328fb0f and player ServerPlayer['DarkReno'/819, l='ServerLevel[world]', x=-925.00, y=105.00, z=781.45] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[pajitums prime]}]
+[19Sep2025 20:08:55.813] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Orc['pajitums prime'/4811, l='ServerLevel[world]', x=-923.50, y=105.00, z=780.50] requested by ServerPlayer['DarkReno'/819, l='ServerLevel[world]', x=-925.00, y=105.00, z=781.44]
+[19Sep2025 20:09:15.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadowfox[/100.116.191.5:54714] logged in with entity id 5081 at (-1071.3105744930842, 128.0, 932.4699023763062)
+[19Sep2025 20:09:15.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox joined the game
+[19Sep2025 20:09:41.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Spectator Mode]
+[19Sep2025 20:09:52.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Creative Mode]
+[19Sep2025 20:10:00.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Shadowfox to DarkReno]
