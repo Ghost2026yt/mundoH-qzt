@@ -1006,3 +1006,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Sep2025 13:33:22.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno left the game
 [19Sep2025 13:34:28.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Sep2025 13:34:28.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 13:39:28.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 13:39:28.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 13:44:28.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 13:44:28.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
