@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "9d94e0e3-153f-3a8c-8b2e-f7025940ab89",
+    "name": "DarkReno",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
