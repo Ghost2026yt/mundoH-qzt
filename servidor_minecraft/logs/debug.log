@@ -1240,3 +1240,137 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Sep2025 19:50:27.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kyx52058fcd9]: Consuming argument `minecraft:grass_block`
 [19Sep2025 19:50:27.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kyx52058fcd9]: Finished looking at arguments. Finalizing command.
 [19Sep2025 19:50:28.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 19:51:37.530] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w40al6jznmv6]: started parsing
+[19Sep2025 19:51:37.530] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w40al6jznmv6]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:51:37.530] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w40al6jznmv6]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:51:37.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mc1ouwl6diw9]: started parsing
+[19Sep2025 19:51:37.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mc1ouwl6diw9]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:51:37.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mc1ouwl6diw9]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:51:38.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05uql436zin2v]: started parsing
+[19Sep2025 19:51:38.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05uql436zin2v]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:51:38.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05uql436zin2v]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:51:38.195] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/mundoH-qzt/servidor_minecraft/mods/worldedit-mod-7.2.15.jar%23109!/com/sk89q/worldedit/world/registry/blocks.120.json for bundled block data.
+[19Sep2025 19:51:43.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [164tsz4iu30bt]: started parsing
+[19Sep2025 19:51:43.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [164tsz4iu30bt]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:51:43.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [164tsz4iu30bt]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:51:43.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [009ih3oxdl5ut]: started parsing
+[19Sep2025 19:51:43.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [009ih3oxdl5ut]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:51:43.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [009ih3oxdl5ut]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:51:43.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10lh9iwfzcz8a]: started parsing
+[19Sep2025 19:51:43.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10lh9iwfzcz8a]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:51:43.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10lh9iwfzcz8a]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:51:43.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09rpq84zcyqn0]: started parsing
+[19Sep2025 19:51:43.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09rpq84zcyqn0]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:51:43.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09rpq84zcyqn0]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:51:45.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 19:51:45.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 19:51:45.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 19:51:56.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 19:51:58.356] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nokmwnaeid73]: started parsing
+[19Sep2025 19:51:58.357] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nokmwnaeid73]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:51:58.357] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nokmwnaeid73]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:51:58.368] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ub8eum5xwmv4]: started parsing
+[19Sep2025 19:51:58.369] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ub8eum5xwmv4]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:51:58.369] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ub8eum5xwmv4]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:51:58.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ae850j160k4i]: started parsing
+[19Sep2025 19:51:58.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ae850j160k4i]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:51:58.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ae850j160k4i]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:52:11.857] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08ka0i9cjbsee]: started parsing
+[19Sep2025 19:52:11.858] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08ka0i9cjbsee]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:52:11.858] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08ka0i9cjbsee]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:52:11.858] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1akk2bgo6qa40]: started parsing
+[19Sep2025 19:52:11.858] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1akk2bgo6qa40]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:52:11.858] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1akk2bgo6qa40]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:52:12.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gj8pfaihuks2]: started parsing
+[19Sep2025 19:52:12.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gj8pfaihuks2]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:52:12.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gj8pfaihuks2]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:52:33.200] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rei8d1v50fdb]: started parsing
+[19Sep2025 19:52:33.200] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rei8d1v50fdb]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:52:33.200] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rei8d1v50fdb]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:52:33.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jqcbaiaur94e]: started parsing
+[19Sep2025 19:52:33.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jqcbaiaur94e]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:52:33.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jqcbaiaur94e]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:52:33.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d34yxfdbsghq]: started parsing
+[19Sep2025 19:52:33.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d34yxfdbsghq]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:52:33.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d34yxfdbsghq]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:53:04.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j4wl78ui1eex]: started parsing
+[19Sep2025 19:53:04.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j4wl78ui1eex]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:53:04.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j4wl78ui1eex]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:53:04.384] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nt26gdzcu4ps]: started parsing
+[19Sep2025 19:53:04.384] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nt26gdzcu4ps]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:53:04.384] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nt26gdzcu4ps]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:53:05.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [166xy59l1w5nx]: started parsing
+[19Sep2025 19:53:05.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [166xy59l1w5nx]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:53:05.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [166xy59l1w5nx]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:54:12.569] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wmstjoh75e12]: started parsing
+[19Sep2025 19:54:12.569] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wmstjoh75e12]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:54:12.570] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wmstjoh75e12]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:54:12.570] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15msjrhuqpkut]: started parsing
+[19Sep2025 19:54:12.570] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15msjrhuqpkut]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:54:12.570] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15msjrhuqpkut]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:54:13.151] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19dctfjd0xemq]: started parsing
+[19Sep2025 19:54:13.152] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19dctfjd0xemq]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:54:13.152] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19dctfjd0xemq]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:54:21.100] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ksu59mc0dksr]: started parsing
+[19Sep2025 19:54:21.101] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ksu59mc0dksr]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:54:21.101] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ksu59mc0dksr]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:54:21.102] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16x6fvark1uyr]: started parsing
+[19Sep2025 19:54:21.102] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16x6fvark1uyr]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:54:21.102] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16x6fvark1uyr]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:54:21.689] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01rrzs43eu0cy]: started parsing
+[19Sep2025 19:54:21.689] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01rrzs43eu0cy]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:54:21.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01rrzs43eu0cy]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:54:28.365] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jo25sg7kg6sr]: started parsing
+[19Sep2025 19:54:28.365] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jo25sg7kg6sr]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:54:28.365] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jo25sg7kg6sr]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:54:28.367] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g11r04s0yx4z]: started parsing
+[19Sep2025 19:54:28.367] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g11r04s0yx4z]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:54:28.367] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g11r04s0yx4z]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:54:28.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03fpq69vzfa8c]: started parsing
+[19Sep2025 19:54:28.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03fpq69vzfa8c]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:54:28.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03fpq69vzfa8c]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:54:45.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tly08e0dbt07]: started parsing
+[19Sep2025 19:54:45.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tly08e0dbt07]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:54:45.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tly08e0dbt07]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:54:45.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pssdulkrlimc]: started parsing
+[19Sep2025 19:54:45.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pssdulkrlimc]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:54:45.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pssdulkrlimc]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:54:45.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v4qe67pa1uv1]: started parsing
+[19Sep2025 19:54:45.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v4qe67pa1uv1]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:54:45.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v4qe67pa1uv1]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:55:38.062] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[19Sep2025 19:55:38.103] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:37930 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 19:55:40.375] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[19Sep2025 19:55:40.402] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:37938 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 19:55:42.106] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[19Sep2025 19:55:42.152] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:37954 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 19:55:44.959] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[19Sep2025 19:55:45.001] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:40558 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 19:56:45.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 19:56:45.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 19:57:24.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[19Sep2025 19:58:13.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer has made the advancement [Cover Me with Diamonds]
+[19Sep2025 19:59:54.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer was killed
+[19Sep2025 19:59:54.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Killed Lumpylauncer]
+[19Sep2025 19:59:56.235] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qpjpwride1db]: started parsing
+[19Sep2025 19:59:56.236] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qpjpwride1db]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:59:56.236] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qpjpwride1db]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:59:56.236] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d1eg6lkaqb1f]: started parsing
+[19Sep2025 19:59:56.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d1eg6lkaqb1f]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:59:56.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d1eg6lkaqb1f]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:59:57.206] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08c4obhk7sszz]: started parsing
+[19Sep2025 19:59:57.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08c4obhk7sszz]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:59:57.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08c4obhk7sszz]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:59:57.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nv1y7p07h6a6]: started parsing
+[19Sep2025 19:59:57.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nv1y7p07h6a6]: Consuming argument `minecraft:grass_block`
+[19Sep2025 19:59:57.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nv1y7p07h6a6]: Finished looking at arguments. Finalizing command.
+[19Sep2025 19:59:58.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 20:00:13.235] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[19Sep2025 20:00:13.253] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:54398 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 20:00:14.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 20:00:25.053] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[19Sep2025 20:00:25.057] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:41302 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 20:00:30.234] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[19Sep2025 20:00:30.260] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:41360 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 20:00:50.571] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[19Sep2025 20:00:50.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:41908 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username

@@ -272,3 +272,19 @@
 [19Sep2025 19:47:52.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:44310 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
 [19Sep2025 19:50:01.858] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:56004 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
 [19Sep2025 19:50:28.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 19:51:45.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 19:51:56.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 19:55:38.103] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:37930 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 19:55:40.402] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:37938 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 19:55:42.152] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:37954 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 19:55:45.001] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:40558 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 19:57:24.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[19Sep2025 19:58:13.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer has made the advancement [Cover Me with Diamonds]
+[19Sep2025 19:59:54.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer was killed
+[19Sep2025 19:59:54.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Killed Lumpylauncer]
+[19Sep2025 19:59:58.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 20:00:13.253] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:54398 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 20:00:14.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Lumpylauncer to DarkReno]
+[19Sep2025 20:00:25.057] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:41302 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 20:00:30.260] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:41360 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19Sep2025 20:00:50.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:41908 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
