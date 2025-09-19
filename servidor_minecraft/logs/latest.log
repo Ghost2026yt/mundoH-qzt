@@ -279,3 +279,9 @@
 [19Sep2025 20:36:18.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the world spawn point to -967, 115, 747 [0.0]]
 [19Sep2025 20:42:59.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
 [19Sep2025 20:43:14.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Gave 1 [Command Block] to DarkReno]
+[19Sep2025 20:50:57.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Disconnected
+[19Sep2025 20:50:57.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[19Sep2025 20:50:57.729] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Sep2025 20:51:17.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:34696] logged in with entity id 2733 at (-994.9982948110987, 107.0, 765.6791827438151)
+[19Sep2025 20:51:17.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[19Sep2025 20:53:34.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
