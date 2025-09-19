@@ -273,3 +273,7 @@
 [19Sep2025 13:32:55.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Creative Mode]
 [19Sep2025 13:33:22.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno lost connection: Timed out
 [19Sep2025 13:33:22.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno left the game
+[19Sep2025 13:58:57.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Sep2025 13:58:57.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Sep2025 13:58:57.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Sep2025 13:59:03.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
