@@ -1156,6 +1156,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/toasting/cheese_toastie": {
+    "criteria": {
+      "has_result": "2025-09-20 20:41:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_pillar": "2025-09-20 20:36:36 +0000"
@@ -1165,6 +1171,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_pillar": "2025-09-20 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/cheese_toastie": {
+    "criteria": {
+      "has_result": "2025-09-20 20:41:42 +0000"
     },
     "done": true
   },
