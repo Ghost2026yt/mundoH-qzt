@@ -804,5 +804,17 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
+    "criteria": {
+      "has_lightswitch": "2025-09-19 21:16:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_light_lightswitch": "2025-09-19 21:16:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
