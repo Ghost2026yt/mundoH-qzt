@@ -263,3 +263,18 @@
 [20Sep2025 23:34:28.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox joined the game
 [20Sep2025 23:35:28.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowfox lost connection: Timed out
 [20Sep2025 23:35:28.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox left the game
+[20Sep2025 23:39:20.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadowfox[/100.116.191.5:59734] logged in with entity id 2518 at (-1001.8320436993241, 105.0, 758.0009465955449)
+[20Sep2025 23:39:20.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox joined the game
+[20Sep2025 23:40:07.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[20Sep2025 23:40:20.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowfox lost connection: Timed out
+[20Sep2025 23:40:20.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox left the game
+[20Sep2025 23:41:22.196] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@308a8f3d[id=<null>,name=Shadowfox,properties={},legacy=false] (/100.116.191.5:33772) lost connection: Disconnected
+[20Sep2025 23:41:49.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadowfox[/100.116.191.5:46374] logged in with entity id 2810 at (-1001.8320436993241, 105.0, 758.0009465955449)
+[20Sep2025 23:41:49.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox joined the game
+[20Sep2025 23:42:12.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Teleported Shadowfox to DarkReno]
+[20Sep2025 23:42:49.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowfox lost connection: Disconnected
+[20Sep2025 23:42:49.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox left the game
+[20Sep2025 23:43:48.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadowfox[/100.116.191.5:52012] logged in with entity id 3014 at (-997.7884074136598, 105.0, 758.4575181572952)
+[20Sep2025 23:43:48.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox joined the game
+[20Sep2025 23:44:41.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowfox lost connection: Timed out
+[20Sep2025 23:44:41.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox left the game

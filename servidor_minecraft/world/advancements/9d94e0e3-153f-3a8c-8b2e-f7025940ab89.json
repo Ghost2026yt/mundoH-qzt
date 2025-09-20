@@ -1405,7 +1405,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cookie": "2025-09-20 22:03:07 +0000"
+      "cookie": "2025-09-20 22:03:07 +0000",
+      "golden_carrot": "2025-09-20 23:37:38 +0000"
     },
     "done": false
   },
@@ -1499,9 +1500,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-20 23:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-09-20 23:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-09-20 23:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-09-20 23:37:59 +0000"
     },
     "done": true
   },
@@ -1511,15 +1530,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-09-20 23:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-09-20 23:32:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-20 23:37:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-09-20 23:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-09-20 23:37:13 +0000"
     },
     "done": true
   },
