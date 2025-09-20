@@ -1027,15 +1027,141 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/lime_toilet": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_toilets": "2025-09-20 21:50:08 +0000"
+      "avoid_vibration": "2025-09-20 21:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-20 21:41:54 +0000"
     },
     "done": true
   },
   "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
     "criteria": {
       "has_ceiling_light": "2025-09-20 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_light_ceiling_light": "2025-09-20 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-09-20 21:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-09-20 21:46:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_basin": {
+    "criteria": {
+      "has_basins": "2025-09-20 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_toilet": {
+    "criteria": {
+      "has_toilets": "2025-09-20 21:50:08 +0000"
     },
     "done": true
   },
@@ -1075,63 +1201,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-09-20 21:53:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_toilet": {
     "criteria": {
       "has_toilets": "2025-09-20 21:50:08 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-09-20 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/purple_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-09-20 21:50:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
     },
     "done": true
   },
@@ -1159,81 +1237,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_bed": {
-    "criteria": {
-      "has_lime_wool": "2025-09-20 21:53:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-09-20 21:46:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/light_blue_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-09-20 21:50:08 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
-    "criteria": {
-      "has_light_ceiling_light": "2025-09-20 21:45:07 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/light_gray_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-09-20 21:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_carpet": {
-    "criteria": {
-      "has_lime_wool": "2025-09-20 21:53:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2025-09-20 21:46:54 +0000"
     },
     "done": true
   },
@@ -1261,18 +1273,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/gray_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/orange_toilet": {
     "criteria": {
       "has_toilets": "2025-09-20 21:50:08 +0000"
@@ -1285,21 +1285,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-09-20 21:41:19 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/red_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-09-20 21:50:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_basin": {
-    "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
     },
     "done": true
   },
@@ -1345,12 +1333,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_banner": {
-    "criteria": {
-      "has_lime_wool": "2025-09-20 21:53:13 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/gray_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-09-20 21:50:08 +0000"
@@ -1369,9 +1351,45 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/lime_basin": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "has_basins": "2025-09-20 21:50:07 +0000"
+      "has_wool": "2025-09-20 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-09-20 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-09-20 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-09-20 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-09-20 22:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-09-20 22:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-20 22:03:41 +0000"
     },
     "done": true
   },
