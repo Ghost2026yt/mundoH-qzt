@@ -1111,3 +1111,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Sep2025 19:52:04.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
 [20Sep2025 19:52:54.051] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-995, y=107, z=758}
 [20Sep2025 19:54:12.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno has completed the challenge [Cover Me in Debris]
+[20Sep2025 19:54:56.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 19:54:56.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 19:57:18.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno lost connection: Disconnected
+[20Sep2025 19:57:18.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno left the game
+[20Sep2025 19:59:56.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 19:59:56.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

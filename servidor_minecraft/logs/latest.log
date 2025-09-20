@@ -245,3 +245,5 @@
 [20Sep2025 19:52:04.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:57740] logged in with entity id 449 at (-987.1025424371098, 110.49489239738725, 749.5153849266411)
 [20Sep2025 19:52:04.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
 [20Sep2025 19:54:12.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno has completed the challenge [Cover Me in Debris]
+[20Sep2025 19:57:18.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno lost connection: Disconnected
+[20Sep2025 19:57:18.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno left the game
