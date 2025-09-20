@@ -241,3 +241,10 @@
 [20Sep2025 20:58:52.664] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Backup data folders ...
 [20Sep2025 21:04:10.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkReno[/100.67.52.59:39172] logged in with entity id 207 at (-989.5016047389757, 111.0, 760.5003308723954)
 [20Sep2025 21:04:10.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno joined the game
+[20Sep2025 21:08:34.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:60382] logged in with entity id 741 at (-985.7400453596803, 106.0, 754.5970778309918)
+[20Sep2025 21:08:34.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[20Sep2025 21:16:26.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno lost connection: Timed out
+[20Sep2025 21:16:26.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno left the game
+[20Sep2025 21:16:26.550] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Sep2025 21:17:16.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkReno[/100.67.52.59:59284] logged in with entity id 1609 at (-975.0216329334827, 105.0, 759.9259025913098)
+[20Sep2025 21:17:16.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno joined the game
