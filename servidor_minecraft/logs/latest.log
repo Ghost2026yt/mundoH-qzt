@@ -257,3 +257,7 @@
 [20Sep2025 22:46:02.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox joined the game
 [20Sep2025 22:46:21.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Spectator Mode]
 [20Sep2025 22:46:28.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Creative Mode]
+[20Sep2025 22:56:48.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowfox lost connection: Disconnected
+[20Sep2025 22:56:48.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowfox left the game
+[20Sep2025 22:56:48.473] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Sep2025 22:56:58.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the weather to clear]
