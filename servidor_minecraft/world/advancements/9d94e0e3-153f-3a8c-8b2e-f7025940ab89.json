@@ -1001,6 +1001,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-09-20 20:07:47 +0000",
       "minecraft:creeper": "2025-09-19 21:18:32 +0000"
     },
     "done": false
@@ -1125,9 +1126,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "has_coal_block": "2025-09-20 19:55:59 +0000"
+      "has_chicken": "2025-09-20 19:52:09 +0000"
     },
     "done": true
   },
@@ -1137,9 +1138,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_chicken": "2025-09-20 19:52:09 +0000"
+      "has_coal_block": "2025-09-20 19:55:59 +0000"
     },
     "done": true
   },
