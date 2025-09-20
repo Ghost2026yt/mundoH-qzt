@@ -975,15 +975,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
     "criteria": {
-      "has_glass_pane": "2025-09-19 21:19:21 +0000"
+      "has_lightswitch": "2025-09-19 21:13:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_light_lightswitch": "2025-09-19 21:13:48 +0000"
     },
     "done": true
   },
   "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
     "criteria": {
       "has_ceiling_light": "2025-09-19 21:13:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_light_ceiling_light": "2025-09-19 21:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-09-19 21:18:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-09-19 21:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-09-19 21:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-19 21:19:21 +0000"
     },
     "done": true
   },
@@ -1004,12 +1040,6 @@
       "has_glass_pane": "2025-09-19 21:19:21 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:creeper": "2025-09-19 21:18:32 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -1047,18 +1077,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
-    "criteria": {
-      "has_light_ceiling_light": "2025-09-19 21:13:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
-    "criteria": {
-      "has_lightswitch": "2025-09-19 21:13:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-19 21:19:21 +0000"
@@ -1068,18 +1086,6 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-19 21:19:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-09-19 21:18:32 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
-    "criteria": {
-      "has_light_lightswitch": "2025-09-19 21:13:48 +0000"
     },
     "done": true
   },
@@ -1104,12 +1110,6 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-19 21:19:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:creeper": "2025-09-19 21:18:32 +0000"
     },
     "done": true
   },
