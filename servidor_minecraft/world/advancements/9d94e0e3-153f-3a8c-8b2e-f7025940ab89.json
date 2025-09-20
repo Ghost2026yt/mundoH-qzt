@@ -1234,6 +1234,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-20 21:42:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_string": "2025-09-20 21:37:12 +0000"
@@ -1357,6 +1363,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-09-20 21:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-20 21:44:35 +0000"
     },
     "done": true
   },

@@ -1027,5 +1027,41 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_ceiling_light": "2025-09-20 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-20 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-09-20 21:46:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_light_ceiling_light": "2025-09-20 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-09-20 21:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-09-20 21:41:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
