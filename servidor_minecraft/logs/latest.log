@@ -5,3 +5,5 @@
 [21Sep2025 00:08:52.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Killed DarkReno]
 [21Sep2025 00:09:00.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Creative Mode]
 [21Sep2025 00:14:42.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno has reached the goal [Sky's the Limit]
+[21Sep2025 00:21:51.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno lost connection: Disconnected
+[21Sep2025 00:21:51.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno left the game
