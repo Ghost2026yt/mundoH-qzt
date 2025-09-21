@@ -10,6 +10,7 @@
       "minecraft:taiga": "2025-09-19 13:32:09 +0000",
       "minecraft:river": "2025-09-19 14:50:06 +0000",
       "minecraft:forest": "2025-09-19 14:49:20 +0000",
+      "minecraft:deep_dark": "2025-09-21 00:05:38 +0000",
       "minecraft:meadow": "2025-09-19 14:35:19 +0000",
       "minecraft:plains": "2025-09-19 14:46:12 +0000"
     },
@@ -1003,7 +1004,9 @@
     "criteria": {
       "minecraft:pillager": "2025-09-20 23:31:30 +0000",
       "minecraft:spider": "2025-09-20 20:07:47 +0000",
-      "minecraft:creeper": "2025-09-19 21:18:32 +0000"
+      "minecraft:creeper": "2025-09-19 21:18:32 +0000",
+      "minecraft:witch": "2025-09-21 00:02:59 +0000",
+      "minecraft:zombie": "2025-09-21 00:04:16 +0000"
     },
     "done": false
   },
@@ -1566,15 +1569,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-09-21 00:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-09-20 23:37:59 +0000"
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-09-21 00:14:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-09-20 23:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-09-21 00:03:57 +0000"
     },
     "done": true
   },
