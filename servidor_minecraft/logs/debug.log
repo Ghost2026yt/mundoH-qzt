@@ -1854,3 +1854,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Sep2025 23:47:54.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Sep2025 23:52:54.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Sep2025 23:52:54.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 23:57:54.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 23:57:54.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 23:59:44.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno has made the advancement [Hot Stuff]
+[21Sep2025 00:02:43.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Spectator Mode]
+[21Sep2025 00:02:52.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Creative Mode]
+[21Sep2025 00:02:54.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 00:02:54.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 00:04:24.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set own game mode to Spectator Mode]
