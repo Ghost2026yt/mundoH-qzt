@@ -244,3 +244,6 @@
 [21Sep2025 15:38:15.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno joined the game
 [21Sep2025 15:38:54.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: The difficulty has been set to Peaceful]
 [21Sep2025 15:56:40.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[21Sep2025 16:14:47.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno lost connection: Disconnected
+[21Sep2025 16:14:47.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno left the game
+[21Sep2025 16:14:47.926] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
