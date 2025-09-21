@@ -245,3 +245,10 @@
 [21Sep2025 18:45:10.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno joined the game
 [21Sep2025 18:57:04.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: The difficulty has been set to Peaceful]
 [21Sep2025 18:57:10.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[21Sep2025 19:12:36.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[21Sep2025 19:18:16.882] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,framework:play,framework:handshake,refurbished_furniture:play] rejected vanilla connections
+[21Sep2025 19:18:16.882] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.86.181.36:37232] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,framework:play,framework:handshake,refurbished_furniture:play] rejected vanilla connections
+[21Sep2025 19:18:21.756] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.86.181.36:37236] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,framework:play,framework:handshake,refurbished_furniture:play] rejected vanilla connections
+[21Sep2025 19:20:55.086] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.86.181.36:37330] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.

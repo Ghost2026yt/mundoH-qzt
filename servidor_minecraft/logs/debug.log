@@ -1083,3 +1083,74 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Sep2025 19:03:30.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h2ke086h2nig]: Finished looking at arguments. Finalizing command.
 [21Sep2025 19:06:26.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Sep2025 19:06:26.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 19:11:26.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 19:11:26.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 19:12:34.941] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zha1vh71f12o]: started parsing
+[21Sep2025 19:12:34.941] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zha1vh71f12o]: Consuming argument `yellow_concrete`
+[21Sep2025 19:12:34.941] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zha1vh71f12o]: Finished looking at arguments. Finalizing command.
+[21Sep2025 19:12:34.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09z8m3h8iqsqt]: started parsing
+[21Sep2025 19:12:34.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09z8m3h8iqsqt]: Consuming argument `yellow_concrete`
+[21Sep2025 19:12:34.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09z8m3h8iqsqt]: Finished looking at arguments. Finalizing command.
+[21Sep2025 19:12:35.421] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q8zt3ai0bwaq]: started parsing
+[21Sep2025 19:12:35.421] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q8zt3ai0bwaq]: Consuming argument `0`
+[21Sep2025 19:12:35.421] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q8zt3ai0bwaq]: Finished looking at arguments. Finalizing command.
+[21Sep2025 19:12:35.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x2lyd1h3rms8]: started parsing
+[21Sep2025 19:12:35.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x2lyd1h3rms8]: Consuming argument `0`
+[21Sep2025 19:12:35.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x2lyd1h3rms8]: Finished looking at arguments. Finalizing command.
+[21Sep2025 19:12:35.736] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19nayxko0skg6]: started parsing
+[21Sep2025 19:12:35.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19nayxko0skg6]: Consuming argument `grass_block`
+[21Sep2025 19:12:35.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19nayxko0skg6]: Finished looking at arguments. Finalizing command.
+[21Sep2025 19:12:35.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eiyjui18dmnc]: started parsing
+[21Sep2025 19:12:35.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eiyjui18dmnc]: Consuming argument `grass_block`
+[21Sep2025 19:12:35.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eiyjui18dmnc]: Finished looking at arguments. Finalizing command.
+[21Sep2025 19:12:36.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[21Sep2025 19:16:26.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 19:16:26.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 19:18:16.881] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:16.881] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:16.881] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:16.881] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_npc:network' : Vanilla acceptance test: REJECTED
+[21Sep2025 19:18:16.881] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:16.881] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:16.881] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Vanilla acceptance test: REJECTED
+[21Sep2025 19:18:16.881] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moreplayermodels:packets' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:16.881] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:16.882] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:16.882] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:16.882] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:16.882] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Vanilla acceptance test: REJECTED
+[21Sep2025 19:18:16.882] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Vanilla acceptance test: REJECTED
+[21Sep2025 19:18:16.882] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,framework:play,framework:handshake,refurbished_furniture:play] rejected vanilla connections
+[21Sep2025 19:18:16.882] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.86.181.36:37232] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_npc:network' : Vanilla acceptance test: REJECTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Vanilla acceptance test: REJECTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moreplayermodels:packets' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Vanilla acceptance test: REJECTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Vanilla acceptance test: REJECTED
+[21Sep2025 19:18:21.755] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,framework:play,framework:handshake,refurbished_furniture:play] rejected vanilla connections
+[21Sep2025 19:18:21.756] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.86.181.36:37236] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_npc:network' : Vanilla acceptance test: REJECTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Vanilla acceptance test: REJECTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moreplayermodels:packets' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Vanilla acceptance test: REJECTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Vanilla acceptance test: REJECTED
+[21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,framework:play,framework:handshake,refurbished_furniture:play] rejected vanilla connections
+[21Sep2025 19:20:55.086] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.86.181.36:37330] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
