@@ -1205,3 +1205,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Sep2025 15:53:37.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01c02cg95mmug]: Consuming argument `light_gray_concrete`
 [21Sep2025 15:53:37.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01c02cg95mmug]: Finished looking at arguments. Finalizing command.
 [21Sep2025 15:56:40.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[21Sep2025 15:57:44.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 15:57:44.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 16:02:44.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 16:02:44.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
