@@ -1154,3 +1154,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Vanilla acceptance test: REJECTED
 [21Sep2025 19:20:55.085] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,framework:play,framework:handshake,refurbished_furniture:play] rejected vanilla connections
 [21Sep2025 19:20:55.086] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.86.181.36:37330] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[21Sep2025 19:21:26.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 19:21:26.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 19:22:33.260] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1037, y=115, z=713}
+[21Sep2025 19:24:56.856] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Allay['Allay'/2840, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 19:24:56.859] [Server thread/INFO] [Easy NPC/]: Register default handler for Allay['Allay'/2840, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[21Sep2025 19:24:56.860] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Allay['Allay'/2840, l='ServerLevel[world]', x=-1039.50, y=106.50, z=727.50] ...
+[21Sep2025 19:24:56.866] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Allay['Allay'/2840, l='ServerLevel[world]', x=-1039.50, y=106.50, z=727.50] ...
+[21Sep2025 19:24:59.428] [Server thread/INFO] [Easy NPC/]: Opening menu 29fb0ecf-4d07-42e4-9aa8-263f64751daa for npc 9985166d-ee64-4f82-ad60-a2fbe414f23a and player ServerPlayer['DarkReno'/126, l='ServerLevel[world]', x=-1039.68, y=106.00, z=729.12] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Allay]}]
+[21Sep2025 19:25:12.717] [Server thread/INFO] [Easy NPC/]: Opening menu f125b72b-5a30-429e-8a74-cb6baff21d50 for npc 9985166d-ee64-4f82-ad60-a2fbe414f23a and player ServerPlayer['DarkReno'/126, l='ServerLevel[world]', x=-1039.68, y=106.00, z=729.12] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[pipi]}]
+[21Sep2025 19:25:24.123] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Allay['pipi'/2840, l='ServerLevel[world]', x=-1039.50, y=106.50, z=727.50] requested by ServerPlayer['DarkReno'/126, l='ServerLevel[world]', x=-1039.68, y=106.00, z=729.12]
+[21Sep2025 19:26:26.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 19:26:26.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 19:30:04.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the world spawn point to -999, 106, 747 [0.0]]
+[21Sep2025 19:30:11.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno was killed
+[21Sep2025 19:30:11.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Killed 119 entities]
