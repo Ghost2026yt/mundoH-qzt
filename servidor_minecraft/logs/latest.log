@@ -259,3 +259,15 @@
 [23Sep2025 19:32:56.114] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5733082[id=<null>,name=Lumpylauncer,properties={},legacy=false] (/100.84.200.109:36868) lost connection: Disconnected
 [23Sep2025 19:32:58.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkReno[/100.67.52.59:56120] logged in with entity id 688 at (-1025.9792415337922, 115.0, 723.7840079194203)
 [23Sep2025 19:32:58.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno joined the game
+[23Sep2025 19:36:55.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno moved too quickly! -4.715089170832243,0.0,8.90384511093282
+[23Sep2025 19:37:30.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:36954] logged in with entity id 1676 at (-1000.6451547308315, 105.0, 753.7394118667811)
+[23Sep2025 19:37:30.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[23Sep2025 19:38:35.864] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:37364 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[23Sep2025 19:38:50.215] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:52426 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[23Sep2025 19:40:42.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[23Sep2025 19:41:06.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno moved too quickly! 2.1865018913706535,0.0,-10.661619941544927
+[23Sep2025 19:42:06.165] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:60164 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[23Sep2025 19:42:09.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Disconnected
+[23Sep2025 19:42:09.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[23Sep2025 19:42:24.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:37036] logged in with entity id 2882 at (-1100.047749648344, 107.80868704277303, 808.0517151068917)
+[23Sep2025 19:42:24.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
