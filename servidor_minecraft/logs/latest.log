@@ -330,3 +330,21 @@
 [23Sep2025 20:14:06.563] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@448f3100[id=<null>,name=Lumpylauncer,properties={},legacy=false] (/100.84.200.109:37700): Took too long to log in
 [23Sep2025 20:14:06.565] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@448f3100[id=<null>,name=Lumpylauncer,properties={},legacy=false] (/100.84.200.109:37700) lost connection: Took too long to log in
 [23Sep2025 20:14:06.613] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Sep2025 20:17:12.414] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a671ef3[id=<null>,name=Lumpylauncer,properties={},legacy=false] (/100.84.200.109:37778) lost connection: Disconnected
+[23Sep2025 20:17:47.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:37788] logged in with entity id 6923 at (-1080.6843691531406, 109.23083842564897, 812.3114146728456)
+[23Sep2025 20:17:47.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[23Sep2025 20:18:17.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[23Sep2025 20:18:17.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[23Sep2025 20:19:02.865] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1735e90d[id=<null>,name=Lumpylauncer,properties={},legacy=false] (/100.84.200.109:37846) lost connection: Timed out
+[23Sep2025 20:19:20.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:37866] logged in with entity id 7015 at (-1078.6516225373075, 109.23083842564897, 813.7141049415336)
+[23Sep2025 20:19:20.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[23Sep2025 20:19:56.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the weather to clear]
+[23Sep2025 20:20:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrGameBlaze> 100.108.216.32
+[23Sep2025 20:20:59.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> ?
+[23Sep2025 20:22:36.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Disconnected
+[23Sep2025 20:22:36.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[23Sep2025 20:23:02.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> ya vengo mano debo acompanar a mi pana afeitarse
+[23Sep2025 20:23:09.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrGameBlaze> dale
+[23Sep2025 20:23:12.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> tambien me voy a afeitar
+[23Sep2025 20:23:16.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno lost connection: Disconnected
+[23Sep2025 20:23:16.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno left the game
