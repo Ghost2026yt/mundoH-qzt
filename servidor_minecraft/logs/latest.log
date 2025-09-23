@@ -304,3 +304,17 @@
 [23Sep2025 19:49:21.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> a ya fino
 [23Sep2025 19:50:13.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
 [23Sep2025 19:52:48.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno moved too quickly! -0.05705784971905814,-6.026529009013004,8.282111290544549
+[23Sep2025 19:54:10.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno moved too quickly! -10.331956104982396,0.0,-0.764427837813173
+[23Sep2025 19:54:35.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno moved too quickly! -0.20406069880118594,-11.515819610648549,1.7943198142584151
+[23Sep2025 19:54:39.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer moved too quickly! -6.1305096879445955,0.4335929106694323,8.163647082598231
+[23Sep2025 19:57:01.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno moved too quickly! -4.478271520803673,1.0907078833408264,9.49175155658861
+[23Sep2025 19:57:01.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer moved too quickly! -2.8607896104679185,3.610061804101406,9.139071880944584
+[23Sep2025 19:59:25.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[23Sep2025 19:59:31.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrGameBlaze: Gamerule doDaylightCycle is now set to: false]
+[23Sep2025 19:59:57.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrGameBlaze> ya vuelvo
+[23Sep2025 20:00:08.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> dale
+[23Sep2025 20:03:04.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Kicked Lumpylauncer: Kicked by an operator]
+[23Sep2025 20:03:04.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Kicked by an operator
+[23Sep2025 20:03:04.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[23Sep2025 20:03:17.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:37318] logged in with entity id 5862 at (-992.272680662778, 164.0, 761.3313410935289)
+[23Sep2025 20:03:17.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
