@@ -271,3 +271,36 @@
 [23Sep2025 19:42:09.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
 [23Sep2025 19:42:24.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:37036] logged in with entity id 2882 at (-1100.047749648344, 107.80868704277303, 808.0517151068917)
 [23Sep2025 19:42:24.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[23Sep2025 19:44:14.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrGameBlaze[/100.67.15.39:65490] logged in with entity id 3425 at (-993.5, 106.0, 742.5)
+[23Sep2025 19:44:14.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrGameBlaze joined the game
+[23Sep2025 19:44:33.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrGameBlaze> DAME OP
+[23Sep2025 19:44:36.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> donde estas
+[23Sep2025 19:44:37.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> voy
+[23Sep2025 19:44:40.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Made MrGameBlaze a server operator]
+[23Sep2025 19:44:45.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrGameBlaze> PORQUE DARK RENO?
+[23Sep2025 19:44:47.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrGameBlaze: Set own game mode to Creative Mode]
+[23Sep2025 19:45:04.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> es un lore que pornto te explico
+[23Sep2025 19:45:10.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrGameBlaze> MEJOR NO
+[23Sep2025 19:45:12.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> pronto*
+[23Sep2025 19:45:16.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> me da igual
+[23Sep2025 19:45:16.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrGameBlaze: Teleported MrGameBlaze to Lumpylauncer]
+[23Sep2025 19:45:21.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> entonces no preguntes
+[23Sep2025 19:45:28.665] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:44050 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[23Sep2025 19:45:36.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lumpylauncer> Hola
+[23Sep2025 19:45:40.168] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:57016 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[23Sep2025 19:45:42.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrGameBlaze> hola
+[23Sep2025 19:46:16.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: The difficulty has been set to Peaceful]
+[23Sep2025 19:46:23.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lumpylauncer> Soy el que se unio a su server antiayer soy lumpycraft
+[23Sep2025 19:46:36.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrGameBlaze> ?
+[23Sep2025 19:46:47.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> ignoralo tiene porblemas
+[23Sep2025 19:46:52.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> problemas*
+[23Sep2025 19:46:55.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lumpylauncer> Puto
+[23Sep2025 19:47:21.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrGameBlaze: Gave 1 [Command Block] to MrGameBlaze]
+[23Sep2025 19:48:02.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrGameBlaze> oye de que tipo eran las casas?
+[23Sep2025 19:48:16.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> urbanas
+[23Sep2025 19:49:11.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> vas construir y copiar?
+[23Sep2025 19:49:13.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrGameBlaze> sisa
+[23Sep2025 19:49:15.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrGameBlaze> me sale mejor
+[23Sep2025 19:49:21.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkReno> a ya fino
+[23Sep2025 19:50:13.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Set the time to 1000]
+[23Sep2025 19:52:48.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno moved too quickly! -0.05705784971905814,-6.026529009013004,8.282111290544549
