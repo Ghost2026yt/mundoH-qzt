@@ -318,3 +318,15 @@
 [23Sep2025 20:03:04.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
 [23Sep2025 20:03:17.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:37318] logged in with entity id 5862 at (-992.272680662778, 164.0, 761.3313410935289)
 [23Sep2025 20:03:17.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[23Sep2025 20:05:00.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer moved too quickly! -4.655485945692476,9.000000357627869,1.181948777454295
+[23Sep2025 20:06:26.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno moved too quickly! -1.768272490208119,-9.99593960947854,0.9310737389643009
+[23Sep2025 20:08:32.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer was killed
+[23Sep2025 20:08:32.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Killed Lumpylauncer]
+[23Sep2025 20:08:56.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer was killed
+[23Sep2025 20:08:56.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Killed Lumpylauncer]
+[23Sep2025 20:13:17.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[23Sep2025 20:13:17.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[23Sep2025 20:13:18.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno moved too quickly! 4.193004493269655,0.0,9.819691093564188
+[23Sep2025 20:14:06.563] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@448f3100[id=<null>,name=Lumpylauncer,properties={},legacy=false] (/100.84.200.109:37700): Took too long to log in
+[23Sep2025 20:14:06.565] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@448f3100[id=<null>,name=Lumpylauncer,properties={},legacy=false] (/100.84.200.109:37700) lost connection: Took too long to log in
+[23Sep2025 20:14:06.613] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
