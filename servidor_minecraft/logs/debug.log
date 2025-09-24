@@ -1228,3 +1228,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Sep2025 19:15:17.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:53394] logged in with entity id 298 at (-1039.9496853188004, 106.0, 789.6299982091035)
 [24Sep2025 19:15:17.851] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@4608efd3 into net.minecraft.network.Connection@2aaf7ffd
 [24Sep2025 19:15:17.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[24Sep2025 19:19:57.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 19:19:57.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 19:24:57.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 19:24:57.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
