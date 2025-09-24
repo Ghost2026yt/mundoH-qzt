@@ -255,3 +255,14 @@
 [24Sep2025 19:11:45.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
 [24Sep2025 19:15:17.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:53394] logged in with entity id 298 at (-1039.9496853188004, 106.0, 789.6299982091035)
 [24Sep2025 19:15:17.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[24Sep2025 19:37:28.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkReno[/100.67.52.59:34378] logged in with entity id 3459 at (-1107.0607317175964, 106.0, 806.9250000119209)
+[24Sep2025 19:37:28.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno joined the game
+[24Sep2025 19:37:39.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Disconnected
+[24Sep2025 19:37:39.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[24Sep2025 19:37:56.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:53550] logged in with entity id 3574 at (-1068.2005619473168, 106.0, 787.6542755994541)
+[24Sep2025 19:37:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[24Sep2025 19:38:30.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[24Sep2025 19:38:30.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[24Sep2025 19:39:06.743] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7bdd8f2f[id=<null>,name=Lumpylauncer,properties={},legacy=false] (/100.84.200.109:53574) lost connection: Disconnected
+[24Sep2025 19:39:21.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:53580] logged in with entity id 3803 at (-1068.2005619473168, 106.0, 787.6542755994541)
+[24Sep2025 19:39:21.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
