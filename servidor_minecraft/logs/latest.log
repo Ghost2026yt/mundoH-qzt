@@ -265,3 +265,31 @@
 [24Sep2025 19:58:11.734] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:45308 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
 [24Sep2025 19:58:13.334] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:45314 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
 [24Sep2025 19:58:15.084] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:45318 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[24Sep2025 20:00:10.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer was killed
+[24Sep2025 20:00:10.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkReno: Killed Lumpylauncer]
+[24Sep2025 20:00:27.534] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:51740 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[24Sep2025 20:00:46.985] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:59328 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[24Sep2025 20:01:05.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[24Sep2025 20:01:05.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[24Sep2025 20:01:44.237] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@546bc5cb[id=<null>,name=Lumpylauncer,properties={},legacy=false] (/100.84.200.109:53952) lost connection: Disconnected
+[24Sep2025 20:02:03.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:53954] logged in with entity id 1824 at (-1089.6099993239436, 106.0, 808.5499671538904)
+[24Sep2025 20:02:03.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[24Sep2025 20:02:03.535] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:46536 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[24Sep2025 20:02:38.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[24Sep2025 20:02:38.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[24Sep2025 20:03:03.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:54042] logged in with entity id 1950 at (-1089.6099993239436, 106.0, 808.5499671538904)
+[24Sep2025 20:03:03.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[24Sep2025 20:04:01.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Disconnected
+[24Sep2025 20:04:01.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[24Sep2025 20:04:06.932] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:46502 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[24Sep2025 20:04:27.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:54122] logged in with entity id 2145 at (-1089.6099993239436, 106.0, 808.5499671538904)
+[24Sep2025 20:04:28.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[24Sep2025 20:05:24.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[24Sep2025 20:05:24.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[24Sep2025 20:06:25.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:54210] logged in with entity id 2414 at (-1089.6099993239436, 106.0, 808.5499671538904)
+[24Sep2025 20:06:25.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[24Sep2025 20:06:43.133] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.116.191.5:49234 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[24Sep2025 20:07:10.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[24Sep2025 20:07:10.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[24Sep2025 20:07:24.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkReno lost connection: Disconnected
+[24Sep2025 20:07:24.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkReno left the game
